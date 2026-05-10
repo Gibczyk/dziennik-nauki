@@ -54,4 +54,4 @@ Startuje od zera, uczę się systematycznie każdego dnia.
 
 ---
 
-*Aktualizowane regularnie. Zaczęte: maj 2026.*
+*Aktualizowane regularnie. Początek: maj 2026.*
